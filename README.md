@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of huseyinfiliz/rewind.** Not for installation: use [Packagist](https://packagist.org/packages/huseyinfiliz/rewind) or the [upstream repository](https://github.com/huseyinfiliz/rewind).
 
-**0** versions archived · Latest: [`2.1.2`](https://github.com/flarchive/huseyinfiliz-rewind/tree/archive/v2.1.2) · License: `MIT` · Flarum: `^2.0`
+**4** versions archived · Latest: [`2.1.2`](https://github.com/flarchive/huseyinfiliz-rewind/tree/archive/v2.1.2) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2026-04-09 | `^2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-rewind/tree/archive/v2.0.0) |
+| `2.1.0` | 2026-09-15 | `^2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-rewind/tree/archive/v2.1.0) |
+| `2.1.1` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-rewind/tree/archive/v2.1.1) |
+| `2.1.2` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-rewind/tree/archive/v2.1.2) |
 
 Catalog entry: [packages/huseyinfiliz-rewind.json](https://github.com/flarchive/archive-index/blob/main/packages/huseyinfiliz-rewind.json)
 
